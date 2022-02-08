@@ -1,7 +1,7 @@
 
 
 
-let messege = "bla blalbasjjnasdjkn*** ^^^ ,,, hdvhvff,"
+let messege = "bla blalbasjjnasdjkn***,,, ^^^ ,,, hdvhvff,"
 let specialCharachters = "*^,"
 let counter = 0
 for (let i = 0; messege[i]; i++) {
